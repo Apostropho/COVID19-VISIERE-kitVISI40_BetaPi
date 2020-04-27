@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Notice_visière_bandeau.svg">
+   sodipodi:docname="Notice_visière_bandeau_kitVISI40_BetaPi.svg">
   <defs
      id="defs2">
     <marker
@@ -42,8 +42,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="483.18362"
-     inkscape:cy="409.74346"
+     inkscape:cx="337.80002"
+     inkscape:cy="741.08985"
      inkscape:document-units="mm"
      inkscape:current-layer="g5730"
      showgrid="false"
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,45 +100,50 @@
            id="flowPara1409" /></flowRoot>      <g
          id="g6748"
          transform="translate(-0.58403342)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Tatalphabet;-inkscape-font-specification:Tatalphabet;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="2.5571737"
-           y="14.80356"
-           id="text1371-7"><tspan
-             sodipodi:role="line"
-             x="2.5571737"
+        <g
+           id="g1307"
+           transform="matrix(0.96973248,0,0,0.96973248,0.08678402,0.75568742)"
+           style="stroke-width:1.03121221">
+          <text
+             id="text1371-7"
              y="14.80356"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
-             id="tspan1391">Basée sur la visière de protection ELVI10A4 de <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332"
-   id="tspan1399">l'électrolab</tspan> https://code.electrolab.fr/covid-19/visiere</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Tatalphabet;-inkscape-font-specification:Tatalphabet;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="2.5530396"
-           y="19.415009"
-           id="text1413"><tspan
-             sodipodi:role="line"
-             id="tspan1411"
-             x="2.5530396"
+             x="2.5571737"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Tatalphabet;-inkscape-font-specification:Tatalphabet;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27284154"
+             xml:space="preserve"><tspan
+               id="tspan1391"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.27284154"
+               y="14.80356"
+               x="2.5571737"
+               sodipodi:role="line">Basée sur la visière de protection ELVI10A4 de <tspan
+   id="tspan1399"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.27284154">l'électrolab</tspan> https://code.electrolab.fr/covid-19/visiere</tspan></text>
+          <text
+             id="text1413"
              y="19.415009"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">Modifiée par le fablab des <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332"
-   id="tspan1415">Usines Nouvelles</tspan> https://github.com/simonmacias/Visiere-Laser</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Tatalphabet;-inkscape-font-specification:Tatalphabet;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="2.5530396"
-           y="24.076038"
-           id="text1413-3"><tspan
-             sodipodi:role="line"
-             id="tspan1411-3"
              x="2.5530396"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Tatalphabet;-inkscape-font-specification:Tatalphabet;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27284154"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.27284154"
+               y="19.415009"
+               x="2.5530396"
+               id="tspan1411"
+               sodipodi:role="line">Modifiée par le fablab des <tspan
+   id="tspan1415"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.27284154">Usines Nouvelles</tspan> https://github.com/simonmacias/Visiere-Laser</tspan></text>
+          <text
+             id="text1413-3"
              y="24.076038"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">Modifiée par le <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332"
-   id="tspan1438">Lab'Telier du Bêta-Lab </tspan>https://www.labetapi.fr </tspan></text>
+             x="2.5530396"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Tatalphabet;-inkscape-font-specification:Tatalphabet;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27284154"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.27284154"
+               y="24.076038"
+               x="2.5530396"
+               id="tspan1411-3"
+               sodipodi:role="line">Modifiée par le <tspan
+   id="tspan1438"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.27284154">Lab'Telier avec la Bêta-Pi </tspan>https://github.com/Apostropho/COVID19-VISIERE-kitVISI40_BetaPi </tspan></text>
+        </g>
       </g>
       <g
          style="stroke-width:0.46439245;stroke-miterlimit:4;stroke-dasharray:none"
